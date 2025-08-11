@@ -1,6 +1,4 @@
-Here’s a complete **README.md** for your **DMP Semantic Alignment Tool** repo:
 
----
 
 # 📄 DMP Semantic Alignment Tool
 
@@ -112,6 +110,3 @@ View:
 MIT License. You’re free to use, modify, and distribute with attribution.
 
 ---
-
-I can also make a **LinkedIn-style project post** for this so it’s shareable as a portfolio highlight.
-Do you want me to prepare that next?
